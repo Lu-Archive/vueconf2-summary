@@ -1,0 +1,1 @@
+# 文档请参考 [jiweiqing的链接](http://jiweiqing.cn/doc/js-utils/)
